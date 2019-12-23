@@ -50,3 +50,32 @@ modules.order
 Module.symvers
 Mkfile.old
 dkms.conf
+
+# log file
+*.log
+
+# automake dependent directory
+.deps/
+.libs/
+COPYING
+INSTALL
+Makefile
+Makefile.in
+aclocal.m4
+autom4te.cache/
+compile
+config.h
+config.h.in
+config.status
+configure
+depcomp
+install-sh
+missing
+stamp-h1
+config.guess
+config.h.in~
+config.sub
+libtool
+ltmain.sh
+m4/*
+example/example
